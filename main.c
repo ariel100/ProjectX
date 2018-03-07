@@ -6,8 +6,8 @@
 void main()
 {
    prinf("ProjectX version %s\n", VERSION);
-   func1(10);
-   func2(11);
+   func1(100);
+   func2(110);
 }
 
 
