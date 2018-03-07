@@ -3,12 +3,11 @@
 
 #define VERSION 1.3
 
-int main()
+void main()
 {
    prinf("ProjectX version %s\n", VERSION);
    func1(10);
    func2(11);
-   return 0;
 }
 
 
