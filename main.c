@@ -12,12 +12,12 @@ int main()
 }
 
 
-int func(int x)
+void func(int x)
 {
    prinf("func1: got number $d\n", x);
 }
 
-int func2(int x)
+void func2(int x)
 {
    prinf("func2: got number $d\n", x);
 }
