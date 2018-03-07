@@ -1,13 +1,13 @@
 #include <stdio.h>
 
 
-#define VERSION 1.1
+#define VERSION 1.2
 
 int main()
 {
    prinf("ProjectX version %s\n", VERSION);
    func1(3);
-   func2(3);
+   func2(5);
    return 0;
 }
 
